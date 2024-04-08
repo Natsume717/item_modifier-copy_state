@@ -1,0 +1,2 @@
+# item_modifier-copy_state
+item_modifierの1項目であるcopy_stateのサンプルになります。
