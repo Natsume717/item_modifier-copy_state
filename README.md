@@ -1,8 +1,7 @@
 # item_modifier-copy_state
 item_modifierの1項目であるcopy_stateのサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】copy_stateでブロックの情報をコピー【item_modifier】](https://natsumake.com/item_modifier-copy_state/)』を参考にしてください。
 
 <h3>使い方</h3>
 
